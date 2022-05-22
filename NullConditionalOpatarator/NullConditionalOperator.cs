@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConditionalOpatarator.NullConditionalOperator
+namespace NullConditionalOpatarator.NullConditionalOperator
 {
     public class NullConditionalOperator
     {
