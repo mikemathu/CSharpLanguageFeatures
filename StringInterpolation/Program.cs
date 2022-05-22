@@ -11,6 +11,7 @@ namespace StringInterpolation
     {
         static void Main(string[] args)
         {
+            //Object initializer. A related feature is the 'collection initializer'
             Person person = new Person()
             {
                 Name = "Mmike",

@@ -1,0 +1,15 @@
+C:\C#\repos\MVC\CSharpLanguageFeatures\ObjectAndCollectionInitializer\bin\Debug\net6.0\ObjectAndCollectionInitializer.exe
+C:\C#\repos\MVC\CSharpLanguageFeatures\ObjectAndCollectionInitializer\bin\Debug\net6.0\ObjectAndCollectionInitializer.deps.json
+C:\C#\repos\MVC\CSharpLanguageFeatures\ObjectAndCollectionInitializer\bin\Debug\net6.0\ObjectAndCollectionInitializer.runtimeconfig.json
+C:\C#\repos\MVC\CSharpLanguageFeatures\ObjectAndCollectionInitializer\bin\Debug\net6.0\ObjectAndCollectionInitializer.dll
+C:\C#\repos\MVC\CSharpLanguageFeatures\ObjectAndCollectionInitializer\bin\Debug\net6.0\ObjectAndCollectionInitializer.pdb
+C:\C#\repos\MVC\CSharpLanguageFeatures\ObjectAndCollectionInitializer\obj\Debug\net6.0\ObjectAndCollectionInitializer.csproj.AssemblyReference.cache
+C:\C#\repos\MVC\CSharpLanguageFeatures\ObjectAndCollectionInitializer\obj\Debug\net6.0\ObjectAndCollectionInitializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\repos\MVC\CSharpLanguageFeatures\ObjectAndCollectionInitializer\obj\Debug\net6.0\ObjectAndCollectionInitializer.AssemblyInfoInputs.cache
+C:\C#\repos\MVC\CSharpLanguageFeatures\ObjectAndCollectionInitializer\obj\Debug\net6.0\ObjectAndCollectionInitializer.AssemblyInfo.cs
+C:\C#\repos\MVC\CSharpLanguageFeatures\ObjectAndCollectionInitializer\obj\Debug\net6.0\ObjectAndCollectionInitializer.csproj.CoreCompileInputs.cache
+C:\C#\repos\MVC\CSharpLanguageFeatures\ObjectAndCollectionInitializer\obj\Debug\net6.0\ObjectAndCollectionInitializer.dll
+C:\C#\repos\MVC\CSharpLanguageFeatures\ObjectAndCollectionInitializer\obj\Debug\net6.0\refint\ObjectAndCollectionInitializer.dll
+C:\C#\repos\MVC\CSharpLanguageFeatures\ObjectAndCollectionInitializer\obj\Debug\net6.0\ObjectAndCollectionInitializer.pdb
+C:\C#\repos\MVC\CSharpLanguageFeatures\ObjectAndCollectionInitializer\obj\Debug\net6.0\ObjectAndCollectionInitializer.genruntimeconfig.cache
+C:\C#\repos\MVC\CSharpLanguageFeatures\ObjectAndCollectionInitializer\obj\Debug\net6.0\ref\ObjectAndCollectionInitializer.dll
