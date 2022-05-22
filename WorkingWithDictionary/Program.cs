@@ -39,7 +39,6 @@ namespace WorkingWithDictionary
            Console.WriteLine(lisa);
 
 
-
             //Populating with dictionary initialization syntax
             Dictionary<string, Person> peopleC = new Dictionary<string, Person>()
             {
