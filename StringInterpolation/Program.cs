@@ -18,11 +18,17 @@ namespace StringInterpolation
                 Age = 23
             };
 
-            string output = string.Format("Name: {0}, Gender: {1}, Age: {2} ", person.Name, person.Gender, person.Age);
+            /*Using string.Format method*/
+            //string output = string.Format("Name: {0}, Gender: {1}, Age: {2} ", person.Name, person.Gender, person.Age);//using traditional c# tool for composing strings that contains data values
 
-            Console.WriteLine(output);
+            //Console.WriteLine(output);
 
-            Console.WriteLine("nAME: {0}, gENDER: {1}, aGE: {2}", person.Name, person.Gender, person.Age);
+            //Console.WriteLine("nAME: {0}, gENDER: {1}, aGE: {2}", person.Name, person.Gender, person.Age);
+
+
+            /*Using string Inteporation. Avoids the need to ensure the {0} reference in the string template match up with variable specified s arguments. I stead we use the variable name directly*/
+            Console.WriteLine($"Namee: {person.Name}, Gender: {person.Gender}, Age: {person.Age:C2} ");
+
         }
     }
 }
