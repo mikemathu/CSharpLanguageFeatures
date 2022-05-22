@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using StringInterpolation;
 using ObjectAndCollectionInitializer;
 
-namespace ObjectAndCollectionInitializer
+namespace StringInterpolation
 {
     internal class Program
     {

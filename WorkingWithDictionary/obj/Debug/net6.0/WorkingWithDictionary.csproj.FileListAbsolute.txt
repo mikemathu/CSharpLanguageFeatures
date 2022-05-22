@@ -1,0 +1,15 @@
+C:\C#\repos\MVC\CSharpLanguageFeatures\WorkingWithDictionary\bin\Debug\net6.0\WorkingWithDictionary.exe
+C:\C#\repos\MVC\CSharpLanguageFeatures\WorkingWithDictionary\bin\Debug\net6.0\WorkingWithDictionary.deps.json
+C:\C#\repos\MVC\CSharpLanguageFeatures\WorkingWithDictionary\bin\Debug\net6.0\WorkingWithDictionary.runtimeconfig.json
+C:\C#\repos\MVC\CSharpLanguageFeatures\WorkingWithDictionary\bin\Debug\net6.0\WorkingWithDictionary.dll
+C:\C#\repos\MVC\CSharpLanguageFeatures\WorkingWithDictionary\bin\Debug\net6.0\WorkingWithDictionary.pdb
+C:\C#\repos\MVC\CSharpLanguageFeatures\WorkingWithDictionary\obj\Debug\net6.0\WorkingWithDictionary.csproj.AssemblyReference.cache
+C:\C#\repos\MVC\CSharpLanguageFeatures\WorkingWithDictionary\obj\Debug\net6.0\WorkingWithDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\repos\MVC\CSharpLanguageFeatures\WorkingWithDictionary\obj\Debug\net6.0\WorkingWithDictionary.AssemblyInfoInputs.cache
+C:\C#\repos\MVC\CSharpLanguageFeatures\WorkingWithDictionary\obj\Debug\net6.0\WorkingWithDictionary.AssemblyInfo.cs
+C:\C#\repos\MVC\CSharpLanguageFeatures\WorkingWithDictionary\obj\Debug\net6.0\WorkingWithDictionary.csproj.CoreCompileInputs.cache
+C:\C#\repos\MVC\CSharpLanguageFeatures\WorkingWithDictionary\obj\Debug\net6.0\WorkingWithDictionary.dll
+C:\C#\repos\MVC\CSharpLanguageFeatures\WorkingWithDictionary\obj\Debug\net6.0\refint\WorkingWithDictionary.dll
+C:\C#\repos\MVC\CSharpLanguageFeatures\WorkingWithDictionary\obj\Debug\net6.0\WorkingWithDictionary.pdb
+C:\C#\repos\MVC\CSharpLanguageFeatures\WorkingWithDictionary\obj\Debug\net6.0\WorkingWithDictionary.genruntimeconfig.cache
+C:\C#\repos\MVC\CSharpLanguageFeatures\WorkingWithDictionary\obj\Debug\net6.0\ref\WorkingWithDictionary.dll
