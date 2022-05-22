@@ -11,11 +11,11 @@ namespace NullConditionalOperator
         static void Main(string[] args)
         {
             string[] Names = new string[] { "Mike", "Joan", "Jane" };
-            //Names = null;
+            Names = null;
             TesterMethod(Names);
         }
 
-        /*Traditiona way to test for null*//*
+        /*Traditiona way to test for null using conditional statement/*
         static void TesterMethod(string[] args)
         {
             //checking for null before accessig the array data
@@ -33,6 +33,8 @@ namespace NullConditionalOperator
         /*Using conditional null operator to test null*/
         static void TesterMethod(string[] args)
         {
+            //Console.WriteLine($"You sent me {args?.Length} arguments Conditional null operator");//conditional null operator
+            Console.WriteLine($"You sent me {args?.Length ?? 0} arguments Conditional null operator"); // using 
 
         }
 

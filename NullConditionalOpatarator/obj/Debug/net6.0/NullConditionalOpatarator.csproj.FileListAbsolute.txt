@@ -1,0 +1,15 @@
+C:\C#\repos\MVC\CSharpLanguageFeatures\NullConditionalOpatarator\bin\Debug\net6.0\NullConditionalOpatarator.exe
+C:\C#\repos\MVC\CSharpLanguageFeatures\NullConditionalOpatarator\bin\Debug\net6.0\NullConditionalOpatarator.deps.json
+C:\C#\repos\MVC\CSharpLanguageFeatures\NullConditionalOpatarator\bin\Debug\net6.0\NullConditionalOpatarator.runtimeconfig.json
+C:\C#\repos\MVC\CSharpLanguageFeatures\NullConditionalOpatarator\bin\Debug\net6.0\NullConditionalOpatarator.dll
+C:\C#\repos\MVC\CSharpLanguageFeatures\NullConditionalOpatarator\bin\Debug\net6.0\NullConditionalOpatarator.pdb
+C:\C#\repos\MVC\CSharpLanguageFeatures\NullConditionalOpatarator\obj\Debug\net6.0\NullConditionalOpatarator.csproj.AssemblyReference.cache
+C:\C#\repos\MVC\CSharpLanguageFeatures\NullConditionalOpatarator\obj\Debug\net6.0\NullConditionalOpatarator.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\repos\MVC\CSharpLanguageFeatures\NullConditionalOpatarator\obj\Debug\net6.0\NullConditionalOpatarator.AssemblyInfoInputs.cache
+C:\C#\repos\MVC\CSharpLanguageFeatures\NullConditionalOpatarator\obj\Debug\net6.0\NullConditionalOpatarator.AssemblyInfo.cs
+C:\C#\repos\MVC\CSharpLanguageFeatures\NullConditionalOpatarator\obj\Debug\net6.0\NullConditionalOpatarator.csproj.CoreCompileInputs.cache
+C:\C#\repos\MVC\CSharpLanguageFeatures\NullConditionalOpatarator\obj\Debug\net6.0\NullConditionalOpatarator.dll
+C:\C#\repos\MVC\CSharpLanguageFeatures\NullConditionalOpatarator\obj\Debug\net6.0\refint\NullConditionalOpatarator.dll
+C:\C#\repos\MVC\CSharpLanguageFeatures\NullConditionalOpatarator\obj\Debug\net6.0\NullConditionalOpatarator.pdb
+C:\C#\repos\MVC\CSharpLanguageFeatures\NullConditionalOpatarator\obj\Debug\net6.0\NullConditionalOpatarator.genruntimeconfig.cache
+C:\C#\repos\MVC\CSharpLanguageFeatures\NullConditionalOpatarator\obj\Debug\net6.0\ref\NullConditionalOpatarator.dll
