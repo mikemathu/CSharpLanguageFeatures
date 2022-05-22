@@ -34,7 +34,7 @@ namespace NullConditionalOperator
         static void TesterMethod(string[] args)
         {
             //Console.WriteLine($"You sent me {args?.Length} arguments Conditional null operator");//conditional null operator
-            Console.WriteLine($"You sent me {args?.Length ?? 0} arguments Conditional null operator"); // using 
+            Console.WriteLine($"You sent me {args?.Length ?? 0} arguments Conditional null operator"); // using the null-coalescing operator '??' to assign a default value
 
         }
 
